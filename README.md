@@ -1,9 +1,8 @@
 # Sleep-Health-Analysis
-
-1. ## Introduction
+## Introduction
 This report presents the findings of an analysis conducted on a dataset related to sleep health living. The analysis involved cleaning the data, conducting univariate analysis using Seaborn plots in Python, and utilizing Tableau for visualization. The objective was to gain insights into sleep patterns, identify potential sleep disorders, and understand their correlation with various factors such as age, occupation, stress levels, physical activities, and blood pressure.
 
-2. ## Data Cleaning
+## Data Cleaning
 To ensure the accuracy of the analysis, data cleaning was performed, addressing missing data, outliers, and invalid entries. This step laid the foundation for a robust and reliable examination of sleep-related variables.
 
 ## Univariate Analysis
