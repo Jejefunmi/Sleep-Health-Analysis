@@ -43,3 +43,6 @@ The analysis, combining univariate exploration, multivariate analysis, and Table
 Continue collecting diverse data to further explore potential correlations.
 Utilize Tableau for effective visualization and interpretation of complex datasets.
 Consider additional factors or variables that may contribute to sleep health.
+ 
+# Dashboard
+https://public.tableau.com/app/profile/funmilayo.adeniyi/viz/SleepdisorderAnalysis/Dashboard1?publish=yes
