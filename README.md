@@ -32,7 +32,7 @@ In the absence of strong correlations from the multivariate analysis, a new fiel
 ## Stress Level by Occupation
 Differences in stress levels were observed across various occupations, with Doctors and Nurses experiencing higher stress levels compared to Salespersons, Lawyers, Teachers, Accountants, Engineers, and other professions. Doctors and nurses exhibit the highest stress levels (8), followed by salespeople (7), lawyers (5), and teachers/accountants (4) with engineers having the lowest stress (3).
 
-![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Strees%20level%20by%20occupation.png)
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/disorder%20by%20occupation.png)
 
 ## Sleep Disorder by Physical Activities
 Individuals with no sleep disorder engage in the highest levels of physical activity, followed by those with sleep apnea, and those with insomnia displaying the lowest activity levels. 
@@ -42,10 +42,12 @@ Individuals with no sleep disorder engage in the highest levels of physical acti
 ## Sleep Disorder by Age Group
 Age groups 20-30 and 31-40 show higher representation of individuals without sleep disorders, while 41-50 leans towards insomnia and 51-60 towards sleep apnea.
 
-![]()
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/sleep%20disorder%20by%20age.png)
 
 ## Sleep Disorder by Blood Pressure
 Among individuals with normal blood pressure, few have sleep disorders, with sleep apnea being more prevalent than insomnia. Within the prehypertensive range, insomnia is more common than sleep apnea, while the hypertensive group has the highest proportion of sleep apnea cases, followed by insomnia and then individuals without sleep disorders.
+
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/SLeep%20disorder%20by%20BP.png)
 
 ## Conclusion
 The analysis, combining univariate exploration, multivariate analysis, and Tableau visualizations, provides a comprehensive understanding of sleep health factors. While multivariate analysis did not reveal significant correlations, the visualizations in Tableau allowed for insightful observations and the creation of key performance indicators.
