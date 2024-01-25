@@ -13,10 +13,13 @@ While the initial analysis involved univariate exploration, the multivariate ana
 
 ## Key Performance Indicators (KPIs) and Additional Field
 In the absence of strong correlations from the multivariate analysis, a new field of Key Performance Indicators (KPIs) was introduced during the visualization stage in Tableau. This field included Sleep Disorder Rate, Sleep Disorder Count, No Disorder Count, and Age Group, providing a summarized view of key metrics derived from the dataset.
+https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/kpi.png
 
 ## Observations
 ## Sleep Disorder by Age
 Visualizations revealed a higher prevalence of sleep disorders among females compared to males across different age groups.
+
+![]
 
 ## Sleep Disorder by Occupation
 Occupations such as Nurses, Teachers, and Salespersons exhibited higher percentages of sleep disorders (41%, 20%, and 19%, respectively), while Doctors, Engineers, Lawyers, Software Engineers, and Scientists had lower percentages.
