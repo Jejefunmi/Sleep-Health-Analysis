@@ -13,28 +13,36 @@ While the initial analysis involved univariate exploration, the multivariate ana
 
 ## Key Performance Indicators (KPIs) and Additional Field
 In the absence of strong correlations from the multivariate analysis, a new field of Key Performance Indicators (KPIs) was introduced during the visualization stage in Tableau. This field included Sleep Disorder Rate, Sleep Disorder Count, No Disorder Count, and Age Group, providing a summarized view of key metrics derived from the dataset.
-https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/kpi.png
+
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/kpi.png)
 
 ## Observations
 ## Sleep Disorder by Age
-Visualizations revealed a higher prevalence of sleep disorders among females compared to males across different age groups.
 
-![]
-
+![Visualizations revealed a higher prevalence of sleep disorders among females compared to males across different age groups.](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Disorder%20by%20gender.png)
+ 
 ## Sleep Disorder by Occupation
-Occupations such as Nurses, Teachers, and Salespersons exhibited higher percentages of sleep disorders (41%, 20%, and 19%, respectively), while Doctors, Engineers, Lawyers, Software Engineers, and Scientists had lower percentages.
+
+![Occupations such as Nurses, Teachers, and Salespersons exhibited higher percentages of sleep disorders (41%, 20%, and 19%, respectively), while Doctors, Engineers, Lawyers, Software Engineers, and Scientists had lower percentages.
+](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Strees%20level%20by%20occupation.png)
 
 ## Sleep Disorder by Age Distribution
-Participants aged 27 to 59 were observed to have sleep disorders, with peaks at age 44, 43, and 50.
+![Participants aged 27 to 59 were observed to have sleep disorders, with peaks at age 44, 43, and 50](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Disorder%20by%20age.png)
 
 ## Stress Level by Occupation
 Differences in stress levels were observed across various occupations, with Doctors and Nurses experiencing higher stress levels compared to Salespersons, Lawyers, Teachers, Accountants, Engineers, and other professions. Doctors and nurses exhibit the highest stress levels (8), followed by salespeople (7), lawyers (5), and teachers/accountants (4) with engineers having the lowest stress (3).
 
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Strees%20level%20by%20occupation.png)
+
 ## Sleep Disorder by Physical Activities
 Individuals with no sleep disorder engage in the highest levels of physical activity, followed by those with sleep apnea, and those with insomnia displaying the lowest activity levels. 
 
+![](https://github.com/Jejefunmi/Sleep-Health-Analysis/blob/main/chart/Sleep%20disorder%20by%20physical%20activities.png)
+
 ## Sleep Disorder by Age Group
 Age groups 20-30 and 31-40 show higher representation of individuals without sleep disorders, while 41-50 leans towards insomnia and 51-60 towards sleep apnea.
+
+![]()
 
 ## Sleep Disorder by Blood Pressure
 Among individuals with normal blood pressure, few have sleep disorders, with sleep apnea being more prevalent than insomnia. Within the prehypertensive range, insomnia is more common than sleep apnea, while the hypertensive group has the highest proportion of sleep apnea cases, followed by insomnia and then individuals without sleep disorders.
